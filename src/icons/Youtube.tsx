@@ -17,8 +17,8 @@ const Youtube = ({ ...props }: SVGProps<SVGSVGElement>) => {
           cy="18.0002"
           r="16.84"
           stroke="#7646A2"
-          stroke-width="2"
-          stroke-linejoin="round"
+          strokeWidth="2"
+          strokeLinejoin="round"
         />
         <rect x="11" y="13" width="14" height="10" fill="url(#patternytb)" />
       </g>

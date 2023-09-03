@@ -17,8 +17,8 @@ const Instagram = ({ ...props }: SVGProps<SVGSVGElement>) => {
           cy="18.0002"
           r="16.84"
           stroke="#7646A2"
-          stroke-width="2"
-          stroke-linejoin="round"
+          strokeWidth="2"
+          strokeLinejoin="round"
         />
         <rect x="11" y="11" width="13" height="13" fill="url(#pattern0ig)" />
       </g>
