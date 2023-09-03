@@ -1,6 +1,6 @@
 import Twitter from "@/icons/Twitter";
 import Youtube from "@/icons/Youtube";
-import Instagram from "@/icons/instagram";
+import Instagram from "@/icons/Instagram";
 import { useRouter } from "next/router";
 
 type Props = {};
